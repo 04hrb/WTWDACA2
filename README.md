@@ -18,5 +18,6 @@
 
 ## Setup
 - Install Processing
-- Download artworks
-- Open Processing files in Processing to view
+- Download zip
+- Unzip zip file to reveal the purported 4 artwork files
+- Open the Processing files in Processing to view
